@@ -15,6 +15,7 @@ function App() {
   { name: 'ham', unitPrice: 2.69, quantity: 10},
   { name: 'tomatoes', unitPrice: 3.26, quantity: 10},
   { name: 'tissue', unitPrice: 8.45, quantity: 10},
+  { name: 'tissue1', unitPrice: 18.35, quantity: 2},
   ];
 
   const addToCart = (item) => {
